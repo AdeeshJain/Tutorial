@@ -1,3 +1,4 @@
 # My Project
 
-By Adeesh
+<strong>By Adeesh</strong>
+
